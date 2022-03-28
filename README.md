@@ -8,7 +8,7 @@ Instructions
 3. npm install
 4. npm install express
 5. npm install spotify-web-api-node
-6.Modify AuthServer.js to add your own developer spotify clientID and client secret.
+6. Modify AuthServer.js to add your own developer spotify clientID and client secret.
 7. node AuthServer.js
 8. visit http://localhost:8888/login in your browser to obtain OAuth2 access token
 9. paste access token in randGenerator.js
